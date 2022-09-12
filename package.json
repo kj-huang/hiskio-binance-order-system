@@ -1,0 +1,28 @@
+{
+  "name": "hiskio-binance-order-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kj-huang/hiskio-binance-order-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kj-huang/hiskio-binance-order-system/issues"
+  },
+  "homepage": "https://github.com/kj-huang/hiskio-binance-order-system#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
+    "babel-jest": "^26.6.3",
+    "jest": "^29.0.1"
+  }
+}
